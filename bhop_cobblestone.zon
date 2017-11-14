@@ -1,0 +1,35 @@
+"bhop_cobblestone"
+{
+	"start"
+	{
+		"bhopleavespeed"		"250.000000"
+		"limitingspeed"		"1"
+		"xpos"		"48.000000"
+		"ypos"		"432.000000"
+		"zpos"		"256.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-240.000000"
+		"yScaleMins"		"-240.000000"
+		"zScaleMins"		"-128.000000"
+		"xScaleMaxs"		"240.000000"
+		"yScaleMaxs"		"240.000000"
+		"zScaleMaxs"		"128.000000"
+	}
+	"end"
+	{
+		"xpos"		"268.000000"
+		"ypos"		"2800.000000"
+		"zpos"		"192.000000"
+		"xRot"		"0.000000"
+		"yRot"		"0.000000"
+		"zRot"		"0.000000"
+		"xScaleMins"		"-124.000000"
+		"yScaleMins"		"-80.000000"
+		"zScaleMins"		"-64.000000"
+		"xScaleMaxs"		"124.000000"
+		"yScaleMaxs"		"80.000000"
+		"zScaleMaxs"		"64.000000"
+	}
+}
